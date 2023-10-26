@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 1.3rem;
+    padding: 1.3rem;
+    background-image: url(/esercitazione-giorno04/img/sfondo-convertito.jpg);
+    
+    }
+header{
+    background-color: rgb(21, 148, 133);
+    color: rgb(252, 251, 251);
+    border-style: inset ;
+    border-color: rgb(1, 0, 0);
+}
+main{
+    background-color:rgb(252, 251, 251) ;
+    margin-top: 0.7rem ;
+    border: 0.2rem;
+    border-style:ridge;
+    border-color: rgb(1, 0, 0);
+}
+div{
+    background-color: rgb(21, 148, 133);
+    color: rgb(252, 251, 251);
+    border-style:inset;
+    border-color: rgb(1, 0, 0);
+    margin-top: 0.7rem;
+}
+aside{
+    background-color:rgb(252, 251, 251);
+    border-style:inset;
+    border-color: rgb(1, 0, 0);
+    margin-top: 0.7rem;
+}
+table{
+    text-align: center;
+}
+th{ 
+    margin-left: 0.4rem;
+    background-color:  rgb(21, 148, 133) ;
+}
+
+
+a{
+    color:darkorange;
+}
+
+
